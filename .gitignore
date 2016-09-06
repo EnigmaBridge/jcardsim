@@ -13,3 +13,13 @@ nb-configuration.xml
 # Eclipse
 .metadata
 .settings/
+/java_card_kit-2_2_2/**/*.html
+/java_card_kit-2_2_2/ant-tasks/
+/java_card_kit-2_2_2/api_export_files/
+/java_card_kit-2_2_2/bin/
+/java_card_kit-2_2_2/doc/
+/java_card_kit-2_2_2/jc_specification/
+/java_card_kit-2_2_2/lib
+/java_card_kit-2_2_2/samples
+/jcdk
+
